@@ -6,4 +6,4 @@
 > Digite o nome do jogador que sera a peça Preta.
 
 ## Jogabilidade
-> Apenas use o cursor e o clique do mouse para movimentar as peças
+> Apenas use o cursor e o clique do mouse para movimentar as peças.
